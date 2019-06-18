@@ -34,7 +34,7 @@ Textbook:
 ### 4. Dimensionality Reduction
 *  Topics: PCA, latent semantic indexing (LSI), latent dirichlet allocation(LDA), topic coherence metrics
 *  Technology: scikit-learn, gensim
-*  Prework: Read [TamingTextwiththeSVD](ftp://ftp.sas.com/techsup/download/EMiner/TamingTextwiththeSVD.pdf)
+*  Prework: Read [TamingTextwiththeSVD](https://www.semanticscholar.org/paper/Taming-Text-with-the-SVD-Albright/7d552470ef3ebb49593b8cc94e4e063b30f650ab)
 
 ### 5. Word Embeddings 
 * Topics: Word2Vec, GloVe, FastText
