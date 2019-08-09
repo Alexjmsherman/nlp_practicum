@@ -41,15 +41,15 @@ Textbook:
 * Technology: scikit-learn, gensim
 * Prework: Read section 6.8-6.13 SLP, [Efficient Estimation of Word Representations in Vector Space](https://arxiv.org/pdf/1301.3781.pdf) & [Distributed Representations of Words and Phrases and their Compositionality](https://arxiv.org/pdf/1310.4546.pdf)
 
-### 6. Deep Learning for NLP
-* Topics: Neural networks with word embeddings, Contextual Word Embeddings
+### 6. Deep Learning for NLP 1
+* Topics: Neural networks with word embeddings
 * Technology: keras, gensim, FLAIR (pytorch)
 * Prework: Read [NLP (Almost) from Scratch](http://www.jmlr.org/papers/volume12/collobert11a/collobert11a.pdf) and [A Primer on Neural Network Models for Natural Language Processing](https://arxiv.org/pdf/1510.00726.pdf)
 
-### 7. Document Classification,  Pipelines and Custom Transformers
-*  Topics: document classification, evaluation metrics, machine learning experiment set-up
-*  Technology: scikit-learn
-*  Prework: Read chapter 4 & 5 SLP
+### 7. Deep Learning for NLP 2
+* Topics: Neural networks with word embeddings, Contextual Word Embeddings
+* Technology: keras, gensim, FLAIR (pytorch)
+* Prework: Read [NLP (Almost) from Scratch](http://www.jmlr.org/papers/volume12/collobert11a/collobert11a.pdf) and [A Primer on Neural Network Models for Natural Language Processing](https://arxiv.org/pdf/1510.00726.pdf)
 
 ### 8. Text Similarity
 *  Topics: cosine similarity, distance metrics, l1 and l2 norm, recommendation engines
